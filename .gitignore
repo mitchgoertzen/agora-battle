@@ -12,6 +12,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/KiteDemo/*
-Content/ParagonProps/*
-Content/Characters/*
+Content/Paragon/*
