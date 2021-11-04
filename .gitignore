@@ -12,4 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Paragon/*
+Content/KiteDemo/*
+Content/ParagonProps/*
+Content/ParagonFengMao/*
